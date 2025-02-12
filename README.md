@@ -6,6 +6,7 @@ The **AI-Powered Pollution-Aware Traffic Diversion System** is an advanced navig
 ## Project Status
 - ✅ **UI Completed**: The user interface has been designed.
 - 🚧 **Functionality In Progress**: The core features are currently being developed and integrated.
+- 🏆 **Hackathon Milestone**: This project was developed after successfully passing to the second round of the **Ceeras Hackathon 2025**.
 
 ## Planned Features
 - 🚀 **Real-Time Route Optimization**: Provides three AI-powered route suggestions:
